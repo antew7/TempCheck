@@ -1,6 +1,6 @@
-# klimatic
+# TempCheck
 
-A new Flutter project.
+A Flutter based application weather App using [OpenWeather API](https://openweathermap.org/api)
 
 ## Getting Started
 
